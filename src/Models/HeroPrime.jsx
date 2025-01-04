@@ -15,7 +15,7 @@ const HeroPrime = () => {
 
   return (
     <>
-      <primitive object={drone.scene} scale={0.8} position={[0,1,2]} rotation={[10,10,9.5]} />
+      <primitive object={drone.scene} scale={1} position={[0,1,2]} rotation={[10,10,9.5]} />
     </>
   )
 }
