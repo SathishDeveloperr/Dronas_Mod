@@ -10,6 +10,12 @@ export default {
         '10xl': '10rem', 
         '11xl': '12rem', 
       },
+      screens: {
+        mobile: '360px',      
+        tablet: '640px',     
+        laptop: '1024px',     
+        pc: '1280px',        
+      },
     },
   },
   plugins: [],
