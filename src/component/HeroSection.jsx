@@ -8,7 +8,7 @@ const HeroSection = () => {
         <h1 className='mobile:text-7xl text-center'>Dronas</h1>
       </div>
 
-      <div className='flex-1' style={{backgroundColor:'skyblue'}}>
+      <div className='flex-3' style={{backgroundColor:'skyblue'}}>
         <HeroModel />
       </div>
 
